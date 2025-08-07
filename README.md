@@ -31,6 +31,7 @@
 - [[Презентация]](./Thesis_Defense/ВКР_ЛапинАА_Презентация.pdf)
 - [[Текст ВКР]](./Thesis_Defense/ВКР_ЛапинАА.pdf)
 - [[Антиплагиат]](./Thesis_Defense/Certificate_20_20250519_Лапин_Алексей_Александрович.pdf)
+- [[Отзыв научного руководителя]](./Thesis_Defense/supervisor_feedback.pdf)
 - [[Исходный код]](https://github.com/aimclub/FEDOT.LLM)
 
 ![Feedback](./Thesis_Defense/Feedback.png)
