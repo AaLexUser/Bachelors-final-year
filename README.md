@@ -36,7 +36,7 @@
 
 ![Feedback](./Thesis_Defense/Feedback.png)
 
-## [Научный эверест](https://studnauka.itmo.ru/everest/)
+## [Научный эверест](https://studnauka.itmo.ru/everest)
 1. По итогам защиты ВКР ГЭК определяет финалистов среди выпускников бакалавриата и магистратуры по направлениям подготовки
 2. Отбор победителей на образовательных структурных подразделениях
 
@@ -92,8 +92,8 @@ AutoML frameworks.
 
 ---
 # Другое
-## [Хакатон AI-Learning Lab](https://ai-learninglab.itmo.ru/)
-[[Подробнее о хакатоне]](https://ai-learninglab.itmo.ru/)
+## [Хакатон AI-Learning Lab](https://ai-learninglab.itmo.ru)
+[[Подробнее о хакатоне]](https://ai-learninglab.itmo.ru)
 
 __Ecom.tech__
 
